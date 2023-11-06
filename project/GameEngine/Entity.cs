@@ -6,10 +6,14 @@ using System.Threading.Tasks;
 
 namespace GameProject.GameEngine
 {
-    internal class Entity
+    private Collaider _collaider;
+    private GameLogic _gameLogic;
+
+    public class Entity
     {
-        /*
-        123
-        */
+        public void Tick()
+        {
+
+        }
     }
 }
