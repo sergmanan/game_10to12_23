@@ -52,6 +52,7 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="GameEngine\Entity.cs" />
     <Compile Include="GameEngine\ExampleFile.cs" />
     <Compile Include="GameEngine\Resources.cs" />
     <Compile Include="Program.cs" />
